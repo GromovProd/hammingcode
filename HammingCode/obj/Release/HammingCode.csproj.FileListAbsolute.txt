@@ -20,3 +20,24 @@ C:\Users\Даниил\Documents\Visual Studio 2013\Projects\HammingCode\HammingC
 C:\Users\Даниил\Documents\Visual Studio 2013\Projects\HammingCode\HammingCode\obj\Release\HammingCode.pdb
 C:\Users\Даниил\Documents\Visual Studio 2013\Projects\HammingCode\HammingCode\bin\Release\bmstu.ico
 C:\Users\Даниил\Documents\Visual Studio 2013\Projects\HammingCode\HammingCode\obj\Release\HammingCode.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\bin\Release\HammingCode.exe.config
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode.exe
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode.pdb
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\bin\Release\bmstu.ico
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\bin\Release\HammingCode.exe
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\bin\Release\HammingCode.pdb
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\AboutPage.baml
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\MainWindow.baml
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\AboutPage.g.cs
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\CoderPage.g.cs
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\DecoderPage.g.cs
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\MainWindow.g.cs
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\App.g.cs
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode_MarkupCompile.cache
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode_MarkupCompile.lref
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\CoderPage.baml
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\DecoderPage.baml
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode.g.resources
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode.Properties.Resources.resources
+C:\Users\Даниил\OneDrive\Проекты\HammingCode\HammingCode\obj\Release\HammingCode.csproj.GenerateResource.Cache
